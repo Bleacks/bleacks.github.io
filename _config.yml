@@ -11,6 +11,7 @@ author: Maxime Dolet
 # Short bio or description (displayed in the header)
 description: Tips and tricks to make you daily life easier
 
+remote_theme: amitmerchant1990/reverie/
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
 
