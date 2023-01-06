@@ -27,3 +27,8 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 - In-built sitemap
 
 Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+
+## Credit
+
+- [Toolbox icons created by  Smashicons - Flaticon](https://www.flaticon.com/free-icons/toolbox)
+- [Blog post theme created by amitmerchant1990 - Reverie](https://github.com/amitmerchant1990/reverie)
